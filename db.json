@@ -15,6 +15,5 @@
     { "orderId": 14, "name": "Name 3", "Date": 542222, "total": 3, "paymentStatus": "Refused", "paymentMethod": "Visa" },
     { "orderId": 15, "name": "Name 3", "Date": 542222, "total": 3, "paymentStatus": "Refused", "paymentMethod": "Visa" },
     { "orderId": 16, "name": "Name 3", "Date": 542222, "total": 3, "paymentStatus": "Waiting", "paymentMethod": "Paypal" },
-
 ]
 }
