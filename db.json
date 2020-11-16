@@ -1,5 +1,5 @@
 {
   "orders": [
     { "orderId": 1, "name": "Name 1", "Date": 212122, "total": 1, "paymentStatus": "success", "paymentMethod": "Visa" },
-$]
+  ]
 }
