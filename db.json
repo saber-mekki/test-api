@@ -1,26 +1,26 @@
 {
-  "orders": [
-    { "command_id": 1, "billing_name": "Name 1", "date": 212122, "total": 1, "payment_status": "valid", "payment_method": "" },
-    { "command_id": 2, "billing_name": "Name 2", "date": 215422, "total": 2, "payment_status": "valid", "payment_method": "" },
-    { "command_id": 3, "billing_name": "Name 3", "date": 542222, "total": 3, "payment_status": "valid", "payment_method": "" },
-    { "command_id": 4, "billing_name": "Name 3", "date": 542222, "total": 3, "payment_status": "valid", "payment_method": "" },
-    { "command_id": 5, "billing_name": "Name 3", "date": 542222, "total": 3, "payment_status": "valid", "payment_method": "" },
-    { "command_id": 6, "billing_name": "Name 3", "date": 542222, "total": 3, "payment_status": "valid", "payment_method": "" },
-    { "command_id": 7, "billing_name": "Name 3", "date": 542222, "total": 3, "payment_status": "valid", "payment_method": "" },
-    { "command_id": 8, "billing_name": "Name 3", "date": 542222, "total": 3, "payment_status": "valid", "payment_method": "" },
-    { "command_id": 9, "billing_name": "Name 3", "date": 542222, "total": 3, "payment_status": "valid", "payment_method": "" },
-    { "command_id": 10, "billing_name": "Name 3", "date": 542222, "total": 3, "payment_status": "valid", "payment_method": "" },
-    { "command_id": 11, "billing_name": "Name 3", "date": 542222, "total": 3, "payment_status": "valid", "payment_method": "" },
-    { "command_id": 12, "billing_name": "Name 3", "date": 542222, "total": 3, "payment_status": "valid", "payment_method": "" },
-    { "command_id": 13, "billing_name": "Name 3", "date": 542222, "total": 3, "payment_status": "valid", "payment_method": "" },
-    { "command_id": 14, "billing_name": "Name 3", "date": 542222, "total": 3, "payment_status": "valid", "payment_method": "" },
-    { "command_id": 15, "billing_name": "Name 3", "date": 542222, "total": 3, "payment_status": "valid", "payment_method": "" },
-    { "command_id": 16, "billing_name": "Name 3", "date": 542222, "total": 3, "payment_status": "valid", "payment_method": "" },
-    { "command_id": 17, "billing_name": "Name 3", "date": 542222, "total": 3, "payment_status": "valid", "payment_method": "" },
-    { "command_id": 18, "billing_name": "Name 3", "date": 542222, "total": 3, "payment_status": "valid", "payment_method": "" },
-    { "command_id": 19, "billing_name": "Name 3", "date": 542222, "total": 3, "payment_status": "valid", "payment_method": "" },
-    { "command_id": 20, "billing_name": "Name 3", "date": 542222, "total": 3, "payment_status": "valid", "payment_method": "" },
-    { "command_id": 21, "billing_name": "Name 3", "date": 542222, "total": 3, "payment_status": "valid", "payment_method": "" },
-    { "command_id": 22, "billing_name": "Name 3", "date": 542222, "total": 3, "payment_status": "valid", "payment_method": "" }
-  ]
-}
+            "orders": [
+              { "id": 1, "billingName": "Name 1", "date": 212122, "total": 1, "paymentStatus": "Waiting", "paymentMethod": "Mastercard" },
+              { "id": 2, "billingName": "Name 2", "date": 215422, "total": 2, "paymentStatus": "success", "paymentMethod": "Visa" },
+              { "id": 3, "billingName": "Name 3", "date": 542222, "total": 3, "paymentStatus": "Refused", "paymentMethod": "Visa" },
+              { "id": 4, "billingName": "Name 3", "date": 542222, "total": 3, "paymentStatus": "success", "paymentMethod": "Visa" },
+              { "id": 5, "billingName": "Name 3", "date": 542222, "total": 3, "paymentStatus": "success", "paymentMethod": "Paypal" },
+              { "id": 6, "billingName": "Name 3", "date": 542222, "total": 3, "paymentStatus": "success", "paymentMethod": "Visa" },
+              { "id": 7, "billingName": "Name 3", "date": 542222, "total": 3, "paymentStatus": "Refused", "paymentMethod": "Visa" },
+              { "id": 8, "billingName": "Name 3", "date": 542222, "total": 3, "paymentStatus": "success", "paymentMethod": "Mastercard" },
+              { "id": 9, "billingName": "Name 3", "date": 542222, "total": 3, "paymentStatus": "success", "paymentMethod": "Visa" },
+              { "id": 10, "billingName": "Name 3", "date": 542222, "total": 3, "paymentStatus": "Refused", "paymentMethod": "Visa" },
+              { "id": 11, "billingName": "Name 3", "date": 542222, "total": 3, "paymentStatus": "success", "paymentMethod": "Mastercard" },
+              { "id": 12, "billingName": "Name 3", "date": 542222, "total": 3, "paymentStatus": "Waiting", "paymentMethod": "Visa" },
+              { "id": 13, "billingName": "Name 3", "date": 542222, "total": 3, "paymentStatus": "success", "paymentMethod": "Mastercard" },
+              { "id": 14, "billingName": "Name 3", "date": 542222, "total": 3, "paymentStatus": "Refused", "paymentMethod": "Paypal" },
+              { "id": 15, "billingName": "Name 3", "date": 542222, "total": 3, "paymentStatus": "success", "paymentMethod": "Paypal" },
+              { "id": 16, "billingName": "Name 3", "date": 542222, "total": 3, "paymentStatus": "success", "paymentMethod": "Mastercard" },
+              { "id": 17, "billingName": "Name 3", "date": 542222, "total": 3, "paymentStatus": "Refused", "paymentMethod": "Paypal" },
+              { "id": 18, "billingName": "Name 3", "date": 542222, "total": 3, "paymentStatus": "success", "paymentMethod": "Paypal" },
+              { "id": 19, "billingName": "Name 3", "date": 542222, "total": 3, "paymentStatus": "success", "paymentMethod": "Paypal" },
+              { "id": 20, "billingName": "Name 3", "date": 542222, "total": 3, "paymentStatus": "Refused", "paymentMethod": "Mastercard" },
+              { "id": 21, "billingName": "Name 3", "date": 542222, "total": 3, "paymentStatus": "success", "paymentMethod": "Paypal" },
+              { "id": 22, "billingName": "Name 3", "date": 542222, "total": 3, "paymentStatus": "Refused", "paymentMethod": "Paypal" }
+            ]
+          }
