@@ -1,19 +1,5 @@
 {
   "orders": [
     { "orderId": 1, "name": "Name 1", "Date": 212122, "total": 1, "paymentStatus": "success", "paymentMethod": "Visa" },
-    { "orderId": 2, "name": "Name 2", "Date": 215422, "total": 2, "paymentStatus": "success", "paymentMethod": "Mastercard" },
-    { "orderId": 3, "name": "Name 3", "Date": 542222, "total": 3, "paymentStatus": "success", "paymentMethod": "Mastercard" },
-    { "orderId": 4, "name": "Name 3", "Date": 542222, "total": 3, "paymentStatus": "Refused", "paymentMethod": "Visa" },
-    { "orderId": 5, "name": "Name 3", "Date": 542222, "total": 3, "paymentStatus": "Waiting", "paymentMethod": "Paypal" },
-    { "orderId": 6, "name": "Name 3", "Date": 542222, "total": 3, "paymentStatus": "Waiting", "paymentMethod": "Paypal" },
-    { "orderId": 7, "name": "Name 3", "Date": 542222, "total": 3, "paymentStatus": "Refused", "paymentMethod": "Visa" },
-    { "orderId": 8, "name": "Name 3", "Date": 542222, "total": 3, "paymentStatus": "Refused", "paymentMethod": "Visa" },
-    { "orderId": 9, "name": "Name 3", "Date": 542222, "total": 3, "paymentStatus": "Waiting", "paymentMethod": "Paypal" },
-    { "orderId": 10, "name": "Name 3", "Date": 542222, "total": 3, "paymentStatus": "Refused", "paymentMethod": "Visa" },
-    { "orderId": 12, "name": "Name 3", "Date": 542222, "total": 3, "paymentStatus": "Refused", "paymentMethod": "Visa" },
-    { "orderId": 13, "name": "Name 3", "Date": 542222, "total": 3, "paymentStatus": "Waiting", "paymentMethod": "Paypal" },
-    { "orderId": 14, "name": "Name 3", "Date": 542222, "total": 3, "paymentStatus": "Refused", "paymentMethod": "Visa" },
-    { "orderId": 15, "name": "Name 3", "Date": 542222, "total": 3, "paymentStatus": "Refused", "paymentMethod": "Visa" },
-    { "orderId": 16, "name": "Name 3", "Date": 542222, "total": 3, "paymentStatus": "Waiting", "paymentMethod": "Paypal" },
-]
+$]
 }
